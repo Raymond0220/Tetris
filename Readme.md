@@ -17,7 +17,7 @@
 7. 程式碼安裝方式:  準備C++開發環境。執行"Tetris.cpp"，編譯程式，開始遊戲，結束遊戲。
 8. 程式碼執行方式: ![image](https://github.com/Raymond0220/Tetris/assets/127190012/da5c0e89-bb52-4ec2-80fb-7e4dff8f0ba9)
 
-9. 程式畫面截圖:
+9. 程式畫面截圖:![image](https://github.com/alan9487/2021-3-2/assets/79899890/61b1f04a-e943-4c69-ab19-7d0e359ef756) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/2dcd70cf-f0cb-427f-9810-bffebec6a91c) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/02c49632-027f-4216-bfe2-6f85a6a8fbb1) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/b51f74c1-1662-4605-a3af-d3174bacc7fe) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/bead5c8e-a648-4c44-b2c3-803e94c95ffa) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/b583ce11-7c2b-4d30-9449-6f0df4cac242) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/4b4428cd-a8b9-4bf2-8114-2cf9bf1c7584) ![image](https://github.com/alan9487/2021-3-2/assets/79899890/c823d85a-bb49-445e-87fb-12435f8271aa)
 10. 分工資訊:  
    胡凱棠：程式設計,UML製作
    辜震璿：程式設計,報告
